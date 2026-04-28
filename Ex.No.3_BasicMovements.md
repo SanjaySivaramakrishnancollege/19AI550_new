@@ -47,7 +47,8 @@ public class FirstScript : MonoBehaviour
 
 <img width="1919" height="1073" alt="image" src="https://github.com/user-attachments/assets/3e6853c0-7cde-4983-975f-339288195006" />
 
-![Uploading image.png…]()
+<img width="1917" height="1048" alt="image" src="https://github.com/user-attachments/assets/b20c31d5-3b96-439a-a889-ff932ca0a968" />
+
 
 
 
