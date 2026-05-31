@@ -160,8 +160,11 @@ behaviors:
 ```
 
 ### Output:
+
+#### Before Training:
 <img width="519" height="320" alt="image" src="https://github.com/user-attachments/assets/e99b8992-2296-495d-91c4-9907d4690fce" />
 
+#### After Training:
 <img width="421" height="292" alt="image" src="https://github.com/user-attachments/assets/29ebcef9-f77c-4ca1-83b8-64680ed8ca82" />
 
 
